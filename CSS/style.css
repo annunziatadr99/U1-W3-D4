@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(https://t4.ftcdn.net/jpg/00/58/07/35/360_F_58073555_yh2WGekTyxyQwd1ch5dp7hR99PNx0vap.jpg);
+  background-size: 150%;
+}
+h1 {
+  margin-bottom: 20px;
+}
+#tabellone {
+  width: 650px;
+  margin: 0 auto;
+  background-color: #f76a05;
+}
+.cella {
+  display: inline-block;
+  text-align: center;
+  width: 60px;
+  height: 60px;
+  background-color: rgb(255 255 255);
+  line-height: 50px;
+  margin: 5px;
+  border: 1px solid #fd0303;
+  font-size: 16px;
+  box-sizing: border-box;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.estratta {
+  background-color: rgba(252, 0, 0, 0.87);
+  font-weight: bold;
+}
+button {
+  cursor: pointer;
+  font-size: 16px;
+  padding: 10px 20px;
+  margin-top: 2rem;
+}
